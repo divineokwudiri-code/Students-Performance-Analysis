@@ -41,7 +41,8 @@ The methodology followed the steps below, matching the structure of the analysis
 
 A. Basic exploration: After importing the CSV file, I reviewed the dataset's structure using **df.head()**, **df.tail()**, **df.info()**, **df.shape**, **df.columns**, and **df.dtypes. df.describe()** confirmed that scores range from 0 to 100, and **df.isnull().sum()** confirmed there are no missing values across any column.
 
-picture
+![df.info()](
+https://github.com/divineokwudiri-code/Students-Performance-Analysis/blob/main/Screenshot%202026-09-28%20142629.png)
 
 B. Filtering & conditional selection: I explored the data using conditional filters to answer specific questions, such as:
 
@@ -55,9 +56,11 @@ C. Group-by & aggregation: I compared average scores across different groups:
 
 picture
 
-D. Visualization: I created histograms for the distribution of math, reading and writing scores, plus a bar chart of average overall score by gender.
+D. Visualization: I created histograms for the distribution of reading and writing scores.
 
-picture
+![reading score](https://github.com/divineokwudiri-code/Students-Performance-Analysis/blob/main/Screenshot%202026-09-28%20142524.png)
+
+![writing score](https://github.com/divineokwudiri-code/Students-Performance-Analysis/blob/main/Screenshot%202026-09-28%20142416.png)
 
 E. Interpretation: The final step was translating the group-by comparisons into a written conclusion, answering the guiding question: does test preparation appear to improve performance?
 
