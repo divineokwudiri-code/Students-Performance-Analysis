@@ -14,7 +14,7 @@ The analysis was conducted in Python using Pandas, NumPy and Matplotlib, inside 
 
 The dataset used in this analysis can be downloaded [here]().
 
-The notebook containing the full analysis is available [here]().
+The notebook containing the full analysis is available [here](https://github.com/divineokwudiri-code/Students-Performance-Analysis/blob/main/Students%20Performance.ipynb).
 
 ## Table of Contents
 - Dataset
