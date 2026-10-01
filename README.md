@@ -1,5 +1,4 @@
 # Students-Performance-Analysis| Python(Pandas)
-This repo contains a beginner-friendly students analysis project done in Python 
 
 ## Overview
 This project analyzes the exam results of 1,000 students to understand how background factors such as: gender, parental level of education, lunch type, and test preparation relate to performance in math, reading and writing.
@@ -83,6 +82,10 @@ Below are the major insights that emerged from the analysis:
 - Race/ethnicity groups are anonymized, so they cannot be interpreted or explained beyond comparing the numeric results between groups.
 - Important context is missing, such as attendance, study hours, class size, and teacher quality, all of which could meaningfully affect scores.
 - Lunch type is used as a proxy for socio-economic status, but it is an imperfect one and does not capture household income directly.
+
+
+
+This repo contains a beginner-friendly students analysis project done in Python 
 
 Author: Divine | [LinkedIn](https://www.linkedin.com/in/divine-okwudiri-3ab106300/?isSelfProfile=true) | divineokwudiri219@gmail.com
 
