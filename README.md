@@ -12,9 +12,9 @@ The analysis addresses the following objectives:
 
 The analysis was conducted in Python using Pandas, NumPy and Matplotlib, inside a Jupyter/Colab notebook.
 
-The dataset used in this analysis can be downloaded here.
+The dataset used in this analysis can be downloaded [here]().
 
-The notebook containing the full analysis is available here.
+The notebook containing the full analysis is available [here]().
 
 ## Table of Contents
 - Dataset
@@ -86,5 +86,5 @@ Below are the major insights that emerged from the analysis:
 - Important context is missing, such as attendance, study hours, class size, and teacher quality, all of which could meaningfully affect scores.
 - Lunch type is used as a proxy for socio-economic status, but it is an imperfect one and does not capture household income directly.
 
-Author: Divine | LinkedIn | Email
+Author: Divine | [LinkedIn](https://www.linkedin.com/in/divine-okwudiri-3ab106300/?isSelfProfile=true) | divineokwudiri219@gmail.com
 
